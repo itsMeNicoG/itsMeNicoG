@@ -3,4 +3,4 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nicolas-gongora/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeNicoG&theme=dark)](https://git.io/streak-stats)
-### Hey there. I'm a Software Engineering student, currently based in Bogotá, CO. My favorite languages are JavaScript and Python. I´m currently learning React as well.
+### Hey there. I'm a Software Engineering student, currently based in Bogotá, CO. My favorite languages are JavaScript and Python. I´m currently learning Java as well.
